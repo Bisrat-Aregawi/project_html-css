@@ -113,6 +113,7 @@ form {
 }
 .lang-offer a {
   display: inline-block;
+  text-decoration: none;
   margin: 0px 2px;
 }
 footer {
